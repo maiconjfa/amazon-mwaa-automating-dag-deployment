@@ -40,7 +40,7 @@ Parameters:
   PYCONSTRAINTS:
     Type: String
     Description: "Python Contrainsts file for checking"
-    Default: "https://raw.githubusercontent.com/apache/airflow/constraints-2.0.2/constraints-3.7.txt"
+    Default: "https://raw.githubusercontent.com/apache/airflow/constraints-2.7.2/constraints-3.11.txt"
 
  
 Resources:
